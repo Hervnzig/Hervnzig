@@ -43,7 +43,7 @@ status    = open to collaborations 🤝
 
 <img src="https://streak-stats.demolab.com/?user=Hervnzig&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hervnzig&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+<img src="https://ghchart.rshah.org/2DD4BF/Hervnzig" alt="Contribution calendar" />
 
 </div>
 
